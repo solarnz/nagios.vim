@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead */nagios*/*.{cache,cfg} setlocal filetype=nagios
+autocmd BufNewFile,BufRead */nagios*/*.{cache,cfg,jinja2} setlocal filetype=nagios
